@@ -1,0 +1,28 @@
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\bin\Debug\Atomic.exe
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\bin\Debug\Atomic.pdb
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\bin\Debug\MySql.Data.dll
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\bin\Debug\MySql.Data.Entity.dll
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\bin\Debug\MySql.Data.Entity.EF6.dll
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\bin\Debug\MySql.Fabric.Plugin.dll
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.csprojResolveAssemblyReference.cache
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.Properties.Resources.resources
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.csproj.GenerateResource.Cache
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.exe
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.pdb
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.Form1.resources
+h:\my documents\visual studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.SearchForm.resources
+F:\Atomic\Atomic\obj\x86\Debug\Atomic.exe
+F:\Atomic\Atomic\obj\x86\Debug\Atomic.pdb
+F:\Atomic\Atomic\bin\Debug\Atomic.exe
+F:\Atomic\Atomic\bin\Debug\Atomic.pdb
+F:\Atomic\Atomic\bin\Debug\MySql.Data.dll
+F:\Atomic\Atomic\bin\Debug\MySql.Data.Entity.dll
+F:\Atomic\Atomic\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\Atomic\Atomic\bin\Debug\MySql.Fabric.Plugin.dll
+F:\Atomic\Atomic\obj\x86\Debug\Atomic.Form1.resources
+F:\Atomic\Atomic\obj\x86\Debug\Atomic.Properties.Resources.resources
+F:\Atomic\Atomic\obj\x86\Debug\Atomic.SearchForm.resources
+F:\Atomic\Atomic\obj\x86\Debug\Atomic.SearchResult.resources
+F:\Atomic\Atomic\obj\x86\Debug\Atomic.csproj.GenerateResource.Cache
+H:\My Documents\Visual Studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.ViewAll.resources
+H:\My Documents\Visual Studio 2010\Projects\Atomic\Atomic\obj\x86\Debug\Atomic.Detail.resources
